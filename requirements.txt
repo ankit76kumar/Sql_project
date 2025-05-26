@@ -1,0 +1,5 @@
+psycopg2-binary     # PostgreSQL database adapter for Python
+sqlalchemy          # SQL toolkit and ORM
+pandas              # For data manipulation if using CSVs
+jupyter             # For running SQL notebooks via Python
+ipython-sql         # SQL magic in Jupyter
